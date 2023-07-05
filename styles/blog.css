@@ -2,4 +2,8 @@ div{
     background-color: aqua;
     padding: 10px;
     margin-bottom: 10px;
+    image-resolution: 10px;
+}
+.bb{
+    /* background-size: 10000px; */
 }
